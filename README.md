@@ -36,9 +36,7 @@ Works Offline: No internet connection required
 
 Easy to Start: Just download and run - no installation needed
 
-Regular Updates: Constant database updates
-
-Optimized Performance: Fast operation even on low-end computers
+Updates if needed: I will keep up witht he work untill my app is perfect
 
 🔧 TECHNICAL REQUIREMENTS:
 
@@ -46,27 +44,19 @@ OS: Windows 7/8/10/11
 
 Processor: Any processor
 
-RAM: 2 GB RAM
+RAM: 64 MB RAM
 
 Disk Space: 10 MB
 
 
 📢 NOTES:
 
-This is a community-created unofficial tool
+This is a unofficial tool
 
 Regularly updated to match game changes
 
-Supports favorites export and import
-
-Features built-in search and filtering system
-
 
 💬 COMMUNITY & SUPPORT
-
-Active community support
-
-Regular feature updates
 
 Bug fixes and improvements based on user feedback
 
