@@ -1,9 +1,9 @@
 Your Complete Offline Reference for AoH3 Modding
 
-Age of History 3 Modding Help App is a powerful offline tool for creating mods for Age of History 3. Designed specifically for modders, this application provides complete access to game triggers and events documentation, even without an internet connection.
+Age of History 3 Modding Modding Assistant is a powerful offline tool for creating mods for Age of History 3. Designed specifically for modders, this application provides complete access to game triggers and events documentation, even without an internet connection.
 
 🎮 WHAT IS IT?
-Age of History 3 Modding Guide is a standalone reference tool that will help you create mods for Age of History 3. Forget about constant internet searches or browsing scattered documents - all the necessary information is now available in one place.
+Age of History 3 Modding Assistan is a standalone reference tool that will help you create mods for Age of History 3. Forget about constant internet searches or browsing scattered documents - all the necessary information is now available in one place.
 ✨ KEY FEATURES:
 Complete Trigger Database: Detailed description of all available game triggers
 Events Library: Comprehensive information about all possible events and their parameters
