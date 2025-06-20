@@ -38,7 +38,7 @@ Works Offline: No internet connection required
 
 Easy to Start: Just download and run - no installation needed
 
-Updates if needed: I will keep up witht he work untill my app is perfect
+Updates if needed: I will keep up with the work untill my app is perfect
 
 🔧 TECHNICAL REQUIREMENTS:
 
