@@ -10,6 +10,8 @@ Age of History 3 Modding Assistan is a standalone reference tool that will help 
 
 Complete Trigger Database: Detailed description of all available game triggers
 
+Complete Outcomes Database: Detailed description of all available game outcomes
+
 Events Library: Comprehensive information about all possible events and their parameters
 
 Usage Examples: Ready-to-use code examples for quick start
