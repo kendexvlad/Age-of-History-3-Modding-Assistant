@@ -1,6 +1,6 @@
 Your Complete Offline Reference for AoH3 Modding
 
-Age of History 3 Modding Modding Assistant is a powerful offline tool for creating mods for Age of History 3. Designed specifically for modders, this application provides complete access to game triggers and events documentation, even without an internet connection.
+Age of History 3 Modding Assistant is a powerful offline tool for creating mods for Age of History 3. Designed specifically for modders, this application provides complete access to game triggers and events documentation, even without an internet connection.
 
 🎮 WHAT IS IT?
 
