@@ -2,7 +2,7 @@ INSTALLATION:
 
 Download the latest release from releases and run it. 
 
-
+Join our discord! https://discord.gg/WC4StZFzhu
 
 Description: 
 Your Complete Offline Reference for AoH3 Modding
